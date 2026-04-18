@@ -41,9 +41,16 @@ Finally, I compared both models using R² score and Mean Squared Error to evalua
 
 
 -> Visualizations:
-- Actual vs Predicted performance graph  
-- Feature importance graph to understand which habits impact performance the most  
+- Actual vs Predicted performance graph:
+  <img width="1792" height="1120" alt="Screenshot 2026-04-19 at 12 00 32 AM" src="https://github.com/user-attachments/assets/0e2fbfbf-e1c5-484d-a51b-fb25c5711468" />
+  This plot compares actual performance with model predictions.
+  Points closer to the diagonal indicate better prediction accuracy , showing that the model captures the overall trend well.
+ 
 
+- Feature importance graph:
+-  <img width="1792" height="1120" alt="Screenshot 2026-04-19 at 12 00 47 AM" src="https://github.com/user-attachments/assets/814cc9ca-1e3c-4c23-947e-1807e577db8e" />
+This graph shows the contribution of each habit to performance prediction.
+Study hours and sleep have higher importance , indicating they play a major role in determining performance. 
 
 
 -> Dataset:
