@@ -1,6 +1,6 @@
 **Habit Performance Analyser**
 
-Overview
+Overview:
 I built this project to understand how daily habits affect overall performance using data and machine learning.
 
 Instead of just tracking habits, I wanted to analyze patterns and predict a performance score based on factors like sleep, study time, screen usage, mood, and exercise. The idea was to apply ML on a simple real-life problem and compare how different models perform.
